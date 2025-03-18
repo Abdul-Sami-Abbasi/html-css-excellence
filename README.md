@@ -1,7 +1,14 @@
-# html-css-excellence
-Description: A collection of 5 high-quality frontend projects built with HTML &amp; CSS, focusing on responsive design, modern UI, and best practices.
+# html-css-excellence  
+Description: A collection of 5 high-quality frontend projects built with HTML & CSS, focusing on responsive design, modern UI, and best practices.  
 
 <img src="assets/course-thumb.jpg" alt="Project Preview" width="100%">
+
+---
+
+## 🌐 Live Preview  
+🔗 [View Live Demo](https://coffee-cafe-443.netlify.app/)  
+
+---
 
 # 🌟 HTML & CSS Excellence – 5 Stunning Landing Pages  
 
@@ -43,3 +50,4 @@ A **minimalist furniture store landing page**, showcasing high-quality chairs wi
 1. Clone the repository:  
    ```sh
    git clone https://github.com/Abdul-Sami-Abbasi/html-css-excellence.git
+
