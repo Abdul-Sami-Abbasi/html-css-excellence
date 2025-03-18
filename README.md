@@ -1,7 +1,7 @@
 # html-css-excellence
 Description: A collection of 5 high-quality frontend projects built with HTML &amp; CSS, focusing on responsive design, modern UI, and best practices.
 
-<img src="assets/course-thumb.png" alt="Project Preview" width="100%">
+<img src="assets/course-thumb.jpg" alt="Project Preview" width="100%">
 
 # 🌟 HTML & CSS Excellence – 5 Stunning Landing Pages  
 
