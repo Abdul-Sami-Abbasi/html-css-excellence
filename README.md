@@ -42,4 +42,4 @@ A **minimalist furniture store landing page**, showcasing high-quality chairs wi
 ## 📥 **How to Use**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/html-css-excellence.git
+   git clone https://github.com/Abdul-Sami-Abbasi/html-css-excellence.git
