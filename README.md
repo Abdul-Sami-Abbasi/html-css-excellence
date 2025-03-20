@@ -7,6 +7,7 @@ Description: A collection of 5 high-quality frontend projects built with HTML & 
 
 ## 🌐 Live Preview  
 🔗 [View Live Demo (Coffee-Cafe)](https://coffee-cafe-443.netlify.app/)  
+🔗 [View Live Demo (Art-Galary)](https://art-galary-443.netlify.app/)  
 
 ---
 
