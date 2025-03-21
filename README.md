@@ -10,6 +10,8 @@ Description: A collection of 5 high-quality frontend projects built with HTML & 
 
 🔗 [View Live Demo (Art-Galary)](https://art-galary-443.netlify.app/)  
 
+🔗 [View Live Demo (Hoodie)](https://hoodie-443.netlify.app/)
+
 ---
 
 # 🌟 HTML & CSS Excellence – 5 Stunning Landing Pages  
