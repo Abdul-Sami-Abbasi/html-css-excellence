@@ -12,6 +12,8 @@ Description: A collection of 5 high-quality frontend projects built with HTML & 
 
 🔗 [View Live Demo (Hoodie)](https://hoodie-443.netlify.app/)
 
+🔗 [View Live Demo (The-Barbers)](https://the-barbers-443.netlify.app/)
+
 ---
 
 # 🌟 HTML & CSS Excellence – 5 Stunning Landing Pages  
