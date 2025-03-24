@@ -14,6 +14,8 @@ Description: A collection of 5 high-quality frontend projects built with HTML & 
 
 🔗 [View Live Demo (The-Barbers)](https://the-barbers-443.netlify.app/)
 
+🔗 [View Live Demo (The-Chairs)](https://the-chairs.netlify.app/)
+
 ---
 
 # 🌟 HTML & CSS Excellence – 5 Stunning Landing Pages  
